@@ -23,8 +23,8 @@ print
 print ("[FOUNDER] : Astropics#0001")
 print ("github   : https://github.com/AsTropics")
 print
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("Ipn du vill DDoSa: ")
+port = input("Porten du vill skicka packets i       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
